@@ -1,1 +1,1 @@
-# Face-Generation-With-GAN
+# Face-Generation-With-DCGAN
